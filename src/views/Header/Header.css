@@ -1,0 +1,10 @@
+.app-header {
+  height: 40px;
+  width: 100%;
+  border-top: 3px solid;
+  border-bottom: 3px solid;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 5px 0px 5px 0px;
+}
