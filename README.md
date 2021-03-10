@@ -4,6 +4,10 @@ Built with:
 2. Nodejs
 3. Javascript
 
+# Instructions to run project:
+1. npm -i
+2. npm start
+3. 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Getting Started with Create React App
