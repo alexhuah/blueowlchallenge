@@ -1,3 +1,11 @@
+# Blue Owl Challenge
+Built with: 
+1. React/Redux
+2. Nodejs
+3. Javascript
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
